@@ -1,3 +1,5 @@
+** The Completed Code is in the folder Stage8 **
+
 DESCRIPTION:
 
 Hangman is a popular, funny, yet very grim game. A cruel computer hides a word from you and you need to guess it, letter by letter. If you fail, you'll be hanged, if you win, you'll survive.
